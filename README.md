@@ -1,32 +1,32 @@
 
 ![Logo Tingle](logo.png)
 
-## Documentation
+## Документация
 
-Documentation and demo can be found here:
-[https://robinparisi.github.io/tingle/](https://robinparisi.github.io/tingle/)
+Документацию и демонстрацию можно найти здесь:
+[https://robinparisi.github.io/tingle/] (https://robinparisi.github.io/tingle/)
 
-## Introduction
+## Введение
 
-Tingle is a minimalist and easy-to-use modal plugin written in pure JavaScript:
+Tingle — это минималистичный и простой в использовании модальный плагин, написанный на чистом JavaScript:
 
-* No dependencies required
-* Fully customizable via CSS
-* CSS transitions
-* Simple API
-* No extra files to download
-* Created with UX in mind
+* Никаких зависимостей не требуется
+* Полностью настраиваемый с помощью CSS
+* CSS-переходы
+* Простой API
+* Никаких дополнительных файлов для скачивания
+* Создано с учетом UX
 
-## Roadmap
+## Дорожная карта
 
-* ~~Flexbox support~~
-* ~~Better responsive~~
-* alert/dialog
-* Accessibility (any help is welcome)
+* ~~Поддержка Flexbox~~
+* ~~ Лучшая отзывчивость~~
+* оповещение/диалог
+* Доступность (любая помощь приветствуется)
 
-## Contribute
+## Способствовать
 
-Run the demo and listen for changes:
+Запустите демо и прослушайте изменения:
 
 ```bash
 $ git clone git@github.com:robinparisi/tingle.git
@@ -35,7 +35,7 @@ $ npm install
 $ gulp serve
 ```
 
-## License
+## Лицензия
 
 © 2018 [Robin Parisi](https://github.com/robinparisi)  
 Released under the [MIT LICENSE](http://opensource.org/licenses/MIT)
